@@ -1,4 +1,4 @@
-Learn how to create basic program in cpp language. 
+Learn how to create basic program in C++ language. 
 
 GitHub 
 ------------------------------------------------------------------------------- 
